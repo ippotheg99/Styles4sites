@@ -1,0 +1,174 @@
+/* Universal styles */
+ body{
+    box-sizing: border-box;
+    margin: 50px;
+ }
+
+ 
+ /* Title  */
+h1{
+    text-align: center;
+    font-size: 40px;
+    text-decoration: overline underline;
+    font-family: 'Marcellus SC', serif;
+    letter-spacing: 0.1em;
+}
+
+ /* Colour section */
+.colours {
+    margin: 0 100px;
+    padding-left: 10px; 
+    display: block;
+    border:1px solid gray;
+}
+
+h2{
+    text-decoration: overline;
+    font-family: 'Yuji Syuku', serif;
+    letter-spacing:0.2em ;
+    text-transform: uppercase;
+}
+
+.font{
+    font-family: 'Yuji Boku', serif;
+   
+}
+.uno{
+    background-color: #66545e;
+   
+} 
+.dos{
+    background-color: #a39193;
+   
+}
+
+.tres{
+    background-color: #aa6f73;
+   
+}
+
+.quatro{
+    background-color: #eea990;
+}
+
+.cinco{
+    background-color: #f6e0b5;
+}
+
+.colour-panel{
+    display: inline-block;
+    width:32%;
+    text-align: center;
+    margin: 5px auto;
+    min-height: 100px;
+}
+
+ /* Fonts section */
+
+.font_styles{
+    margin: 20px 100px;
+    padding-left: 10px; 
+    display: block;
+    border:1px solid gray;
+}
+
+.label-Marcellus-SC{
+    font-family: 'Marcellus SC', serif;
+    text-decoration: underline;
+    font-size: 20px;
+}
+.Marcellus-SC {
+    font-family: 'Marcellus SC', serif;
+}
+.bold-Marcellus-SC{
+    font-family: 'Marcellus SC', serif;
+    font-weight: bolder;
+}
+.italic-Marcellus-SC{
+    font-family: 'Marcellus SC', serif;
+    font-style: italic;
+}
+
+.label-Yuji-Syuku{
+    font-family: 'Yuji Syuku', serif;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.Yuji-Syuku{
+    font-family: 'Yuji Syuku', serif;
+
+}
+
+.bold-Yuji-Syuku{
+    font-family: 'Yuji Syuku', serif;
+    font-weight: bolder;
+
+}
+
+.italic-Yuji-Syuku{
+    font-family: 'Yuji Syuku', serif;
+    font-style: italic;
+
+}
+
+.label-Yuji-Boku{
+    font-family: 'Yuji Boku', serif;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.Yuji-Boku{
+    font-family: 'Yuji Boku', serif;
+
+}
+
+.bold-Yuji-Boku{
+    font-family: 'Yuji Boku', serif;
+    font-weight: bolder;
+}
+
+.italic-Yuji-Boku{
+    font-family: 'Yuji Boku', serif;
+    font-style: italic;
+
+}
+
+.inline{
+    display: inline-block;
+    width: 30%;
+    padding-left: 10px;
+}
+ /* Text Styles section */
+
+ .Text-Styles{
+    margin: 20px 100px;
+    padding-left: 10px; 
+    display: block;
+    border:1px solid gray;
+ }
+
+ .Text-Styles li{
+    font-family: 'Courier New', Courier, monospace;
+ }
+
+ .h-one{
+    font-size: 30px;
+    font-family: 'Marcellus SC', serif;
+    text-decoration: underline;
+    font-weight: bolder;
+ }
+
+ .subheading{
+    font-family: 'Yuji Syuku', serif;
+    font-size: 20px;
+    text-decoration: underline;
+    font-weight: 550;
+ }
+
+ .paragraph{
+    font-size: 15px;
+    text-decoration: underline;
+    font-family: 'Yuji Boku', serif;
+    font-weight: 400;
+ }
